@@ -1,0 +1,9 @@
+@sequences.sql
+@create_tables.sql
+@functions.sql
+@procedures.sql
+@triggers.sql
+@views.sql
+@indexes.sql
+@joins.sql
+@user.sql
